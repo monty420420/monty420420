@@ -9,7 +9,7 @@ css-> sass에 능숙하며 아래와 같은 bem형식의 css방법론을 선호�
 
 ![20230718_190010](https://github.com/monty420420/monty420420/assets/72345833/518594bd-be84-46c2-ad2e-71395aa1adc8)
 
-js->  naver-clone코딩( https://github.com/monty420420/naver_clone )을 하며 동적인ui 만들기와 날씨데이터를 사용하고자 openweather api를 이용해 js를 이용해 능숙하게 동적인 ui와 데이터를 가공해 보았습니다. </br><br/>
+js->  naver-clone코딩( https://github.com/monty420420/naver_clone )을 하며 js를 이용하여 동적인ui 만들기와 날씨데이터를 사용하고자 openweather api를 이용해 능숙하게 동적인 ui와 데이터를 가공해 보았습니다. </br><br/>
 react ->  arirang website( https://www.arirang.com/ ) react를 활용하여 클라이언트페이지와 관리자페이지의 동적인 ui를 제작하였습니다.
 
 자격증 : 정보처리기사보유
