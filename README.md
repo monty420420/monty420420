@@ -2,7 +2,7 @@
 
 skill -> html, css, sass, javascript, react.js
 
-html-> w3c를 이용해 웹표준검사를 하며 마크업하려고 노력합니다. <br/><br/>
+html-> alt와 tabindex등을 활용한 웹접근성에 맞는 마크업을 하려고 노력합니다. <br/><br/>
 css-> sass에 능숙하며 아래와 같은 bem형식의 css방법론을 선호합니다 nesting은 5단계이상 들어가는것보다 중간에 클래스로 한번씩 끊어주며 사용합니다.
 클래스명을 각각 명확하게 알아볼수있게 선언하고 css 문제발생시 빠른 해결을 위해 important는 되도록 사용하지 않으려고 노력합니다.
 
