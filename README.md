@@ -1,4 +1,4 @@
-안녕하세요  동적인 ui개발과 api개발에 관심이 있는 WEB 웹퍼블리싱 및 프론트 개발자 문태연입니다.
+안녕하세요  동적인 ui개발과 api개발에 관심이 있는 WEB 웹퍼블리셔 문태연입니다.
 
 skill -> html, css, sass, javascript, react.js
 
